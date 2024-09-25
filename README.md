@@ -1,7 +1,5 @@
 # Mitt program
 
-Se [oppgaveteksten](./OPPGAVETEKST.md) til semesteroppgave 2. Denne README -filen kan du endre som en del av dokumentasjonen til programmet, hvor du beskriver for en bruker hvordan programmet skal benyttes.
-
 Programmet mitt er en replika av spillet "2048" som ble utgitt i 2014.
 Spillet er et enkelt single-player spill som kan forklares som et "skyveblokkpuslespill".
 Spillet spilles på et 4x4 rutenett, der av 2 av de 16 rutene har nummererte fliser fra start(Enten med verdi 2 eller 4).
